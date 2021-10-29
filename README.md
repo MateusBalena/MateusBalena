@@ -2,7 +2,7 @@ Olá, eu sou Mateus Pinheiro Balena
 
 Sou desenvolvedor Full Stack com ênfase nas tecnologias microsoft
 
-Desenvolvimento Back-End
+Desenvolvimento Back-End \n
 .NET | C# | Microsoft web API | ASP.NET
 
 Desenvolvimento Front-End
