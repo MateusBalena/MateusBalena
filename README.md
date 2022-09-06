@@ -7,10 +7,10 @@ Trabalho principalmente com desenvolvimento web, mas também na área de UI e da
 As arquiteturas com que tenho familiaridade são MVC e MVVM; Além de que, sempre recomendo basear a aplicação em microsserviços e a utilização de API's REST, não só pelo fato de tornar o programa responsivo mas torna mais fácil sua expansão e adaptação a novas demandas.
 
 Desenvolvimento Back-End ||
-.NET Core (3.3 & 5.0) | C# | Microsoft web API | ASP.NET
+.NET Core | C# | Microsoft web API | ASP.NET 
 
 Desenvolvimento Front-End ||
-HTML&CSS | Javascript | Vue.js | Quasar | Bootstrap | React/React-Native
+HTML&CSS | Javascript | Bootstrap |
 
 Desenvolvimento DataBase ||
 SQL Server | MySQL | PostgreSQL
